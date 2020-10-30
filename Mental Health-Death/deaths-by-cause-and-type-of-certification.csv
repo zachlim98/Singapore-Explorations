@@ -1,0 +1,217 @@
+year,icd_main_category,icd_detail_category,certified_by,death_count
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),Doctors,34
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),Doctors,3
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),Doctors,38
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),Doctors,3
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),Doctors,29
+2016,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",Doctors,12
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),Doctors,2
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),Doctors,28
+2016,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,Doctors,25
+2016,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",Doctors,219
+2016,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),Doctors,108
+2016,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),Doctors,341
+2016,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",Doctors,881
+2016,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),Doctors,634
+2016,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),Doctors,339
+2016,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),Doctors,36
+2016,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",Doctors,1253
+2016,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),Doctors,14
+2016,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),Doctors,475
+2016,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),Doctors,86
+2016,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),Doctors,84
+2016,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),Doctors,138
+2016,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),Doctors,195
+2016,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),Doctors,78
+2016,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",Doctors,76
+2016,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),Doctors,161
+2016,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),Doctors,67
+2016,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),Doctors,149
+2016,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,Doctors,591
+2016,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),Doctors,68
+2016,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),Doctors,7
+2016,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",Doctors,7
+2016,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),Doctors,343
+2016,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",Doctors,20
+2016,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",Doctors,2
+2016,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),Doctors,9
+2016,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",Doctors,215
+2016,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),Doctors,2
+2016,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),Doctors,22
+2016,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),Doctors,801
+2016,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),Doctors,3396
+2016,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),Doctors,357
+2016,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),Doctors,1317
+2016,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),Doctors,14
+2016,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),Doctors,200
+2016,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),Doctors,1
+2016,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),Doctors,3855
+2016,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),Doctors,3
+2016,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),Doctors,460
+2016,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,Doctors,121
+2016,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),Doctors,47
+2016,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),Doctors,191
+2016,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,Doctors,229
+2016,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),Doctors,150
+2016,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),Doctors,85
+2016,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),Doctors,20
+2016,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),Doctors,893
+2016,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-089-Other direct obstetric deaths(O10-O92),Doctors,2
+2016,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),Doctors,36
+2016,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",Doctors,72
+2016,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Doctors,30
+2016,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Coroners,53
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),Coroners,164
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),Coroners,149
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),Coroners,21
+2016,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",Coroners,3
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),Coroners,22
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),Coroners,429
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),Coroners,21
+2016,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,Coroners,81
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),Doctors,36
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),Doctors,4
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),Doctors,22
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),Doctors,10
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-009-Diphtheria(A36),Doctors,1
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-010-Whooping cough(A37),Doctors,1
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),Doctors,44
+2017,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",Doctors,2
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),Doctors,2
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),Doctors,31
+2017,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,Doctors,36
+2017,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",Doctors,214
+2017,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),Doctors,93
+2017,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),Doctors,319
+2017,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",Doctors,896
+2017,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),Doctors,623
+2017,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),Doctors,379
+2017,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),Doctors,18
+2017,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",Doctors,1245
+2017,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),Doctors,12
+2017,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),Doctors,480
+2017,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),Doctors,73
+2017,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),Doctors,114
+2017,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),Doctors,140
+2017,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),Doctors,186
+2017,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),Doctors,80
+2017,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",Doctors,79
+2017,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),Doctors,195
+2017,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),Doctors,51
+2017,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),Doctors,194
+2017,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,Doctors,686
+2017,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),Doctors,160
+2017,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),Doctors,8
+2017,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",Doctors,9
+2017,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),Doctors,321
+2017,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",Doctors,19
+2017,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",Doctors,1
+2017,1-058-Diseases of the nervous system(G00-G98),"1-059-Meningitis(G00,G03)",Doctors,1
+2017,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),Doctors,5
+2017,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",Doctors,177
+2017,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),Doctors,2
+2017,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),Doctors,22
+2017,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),Doctors,712
+2017,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),Doctors,3860
+2017,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),Doctors,376
+2017,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),Doctors,1310
+2017,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),Doctors,41
+2017,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),Doctors,220
+2017,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),Doctors,4
+2017,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),Doctors,4212
+2017,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),Doctors,1
+2017,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),Doctors,430
+2017,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,Doctors,110
+2017,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),Doctors,43
+2017,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),Doctors,176
+2017,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,Doctors,266
+2017,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),Doctors,113
+2017,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),Doctors,87
+2017,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),Doctors,16
+2017,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),Doctors,909
+2017,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),Doctors,39
+2017,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",Doctors,49
+2017,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Doctors,18
+2017,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Coroners,82
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),Coroners,141
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),Coroners,142
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),Coroners,15
+2017,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",Coroners,4
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),Coroners,16
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),Coroners,361
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),Coroners,16
+2017,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,Coroners,145
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-003-Diarrhoea and gastroenteritis of presumed infectious origin(A09),Doctors,16
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-004-Other intestinal infectious diseases(A01-A08),Doctors,13
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-005-Respiratory tuberculosis(A15-A16),Doctors,25
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-006-Other tuberculosis(A17-A19),Doctors,3
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-012-Septicaemia(A40-A41),Doctors,89
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-014-Acute poliomyelitis(A80),Doctors,1
+2018,1-001-Certain infection and parasitic diseases(A10-B99),"1-017-Other arthropod-borne viral fevers				and viral haemorrhagic fevers(A90-A94,A96-A99)",Doctors,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-019-Viral hepatitis(B15-B19),Doctors,5
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-020-Human immunodeficiency virus [HIV] disease(B20-B24),Doctors,18
+2018,1-001-Certain infection and parasitic diseases(A10-B99),1-025-Remainder of certain infectious and parasitic diseases,Doctors,24
+2018,1-026-Neplasms(C00-D48),"1-027-Malignant neoplasm of lip, oral cavity and pharynx(C00-C14)",Doctors,206
+2018,1-026-Neplasms(C00-D48),1-028-Malignant neoplasm of oesophagus(C15),Doctors,104
+2018,1-026-Neplasms(C00-D48),1-029-Malignant neoplasm of stomach(C16),Doctors,319
+2018,1-026-Neplasms(C00-D48),"1-030-Malignant neoplasm of colon, rectum and anus(C18-C21)",Doctors,939
+2018,1-026-Neplasms(C00-D48),1-031-Malignant neoplasm of liver and intrahepatic bile ducts(C22),Doctors,621
+2018,1-026-Neplasms(C00-D48),1-032-Malignant neoplasm of pancreas(C25),Doctors,430
+2018,1-026-Neplasms(C00-D48),1-033-Malignant neoplasm of larynx(C32),Doctors,31
+2018,1-026-Neplasms(C00-D48),"1-034-Malignant neoplasm of trachea, bronchus and lung(C33-C34)",Doctors,1268
+2018,1-026-Neplasms(C00-D48),1-035-Malignant melanoma of skin(C43),Doctors,18
+2018,1-026-Neplasms(C00-D48),1-036-Malignant neoplasm of breast(C50),Doctors,493
+2018,1-026-Neplasms(C00-D48),1-037-Malignant neoplasm of cervix uteri(C53),Doctors,65
+2018,1-026-Neplasms(C00-D48),1-038-Malignant neoplasm of other and unspecified parts of uterus(C54-C55),Doctors,98
+2018,1-026-Neplasms(C00-D48),1-039-Malignant neoplasm of ovary(C56),Doctors,128
+2018,1-026-Neplasms(C00-D48),1-040-Malignant neoplasm of prostate(C61),Doctors,224
+2018,1-026-Neplasms(C00-D48),1-041-Malignant neoplasm of bladder(C67),Doctors,88
+2018,1-026-Neplasms(C00-D48),"1-042-Malignant neoplasm of meninges, brain and other parts of central nervous system(C70-C72)",Doctors,110
+2018,1-026-Neplasms(C00-D48),1-043-Non-Hodgkins lymphoma(C82-C85)),Doctors,174
+2018,1-026-Neplasms(C00-D48),1-044-Multiple myeloma and malignant plasma cell neoplasms(C90),Doctors,58
+2018,1-026-Neplasms(C00-D48),1-045-Leukaemia(C91-C95),Doctors,157
+2018,1-026-Neplasms(C00-D48),1-046-Remainder of malignant neoplasms,Doctors,601
+2018,1-026-Neplasms(C00-D48),1-047-Remainder of neoplasms(D00-D48),Doctors,111
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)",1-049-Anaemias(D50-D64),Doctors,13
+2018,"1-048-Diseases of the blood and blood-forming organs and					certain disorders involving the immune mechanism(D50-D89)","1-050-Remainder of diseases of the blood and blood-forming		organs and certain disorders involving the immune mechanism(D65-D89)",Doctors,12
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)",1-052-Diabetes mellitus(E10-E14),Doctors,281
+2018,"1-051-Endocrine, nutritional and metabolic diseases(E00-E88)","1-054-Remainder of endocrine, nutritional and metabolic diseases",Doctors,15
+2018,1-055-Mental and behavioural disorders(F01-F99),"1-057-Remainder of mental and behavioural disorders(F01-F09,F20-F99)",Doctors,3
+2018,1-058-Diseases of the nervous system(G00-G98),"1-059-Meningitis(G00,G03)",Doctors,3
+2018,1-058-Diseases of the nervous system(G00-G98),1-060-Alzheimers disease(G30),Doctors,24
+2018,1-058-Diseases of the nervous system(G00-G98),"1-061-Remainder of diseases of the nervous system(G04-G25,G31-G98)",Doctors,184
+2018,1-062-Diseases of the eye and adnexa(H00-H57),1-062-Diseases of the eye and adnexa(H00-H57),Doctors,1
+2018,1-063-Diseases of the ear and mastoid process(H60-H93),1-063-Diseases of the ear and mastoid process(H60-H93),Doctors,3
+2018,1-064-Diseases of the circulatory system(I00-I99),1-065-Acute rheumatic fever and chronic rheumatic heart diseases(I00-I09),Doctors,25
+2018,1-064-Diseases of the circulatory system(I00-I99),1-066-Hypertensive diseases(I10-I13),Doctors,632
+2018,1-064-Diseases of the circulatory system(I00-I99),1-067-Ischaemic heart diseases(I20-I25),Doctors,3862
+2018,1-064-Diseases of the circulatory system(I00-I99),1-068-Other heart diseases(I26-I51),Doctors,420
+2018,1-064-Diseases of the circulatory system(I00-I99),1-069-Cerebrovascular diseases(I60-I69),Doctors,1277
+2018,1-064-Diseases of the circulatory system(I00-I99),1-070-Atherosclerosis(I71),Doctors,28
+2018,1-064-Diseases of the circulatory system(I00-I99),1-071-Remainder of diseases of the circulatory system(I71-I99),Doctors,213
+2018,1-072-Diseases of the respiratory system(J00-J98),1-073-Influenza(J09-J11),Doctors,7
+2018,1-072-Diseases of the respiratory system(J00-J98),1-074-Pneumonia(J12-J18),Doctors,4380
+2018,1-072-Diseases of the respiratory system(J00-J98),1-075-Other acute lower respiratory infections(J20-J22),Doctors,3
+2018,1-072-Diseases of the respiratory system(J00-J98),1-076-Chronic lower respiratory diseases(J40-J47),Doctors,394
+2018,1-072-Diseases of the respiratory system(J00-J98),1-077-Remainder of diseases of the respiratory system,Doctors,125
+2018,1-078-Diseases of the digestive system(K00-K92),1-079-Gastric and duodenal ulcer(K25-K27),Doctors,38
+2018,1-078-Diseases of the digestive system(K00-K92),1-080-Diseases of the liver(K70-K76),Doctors,182
+2018,1-078-Diseases of the digestive system(K00-K92),1-081-Remainder of diseases of the digestive system,Doctors,298
+2018,1-082-Diseases of the skin and subcutaneous tissue(L00-L98),1-082-Diseases of the skin and subcutaneous tissue(L00-L98),Doctors,132
+2018,1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),1-083-Diseases of the musculoskeletal system and connective tissue(M00-M99),Doctors,108
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-085-Glomerular and renal tubulo-interstitial diseases(N00-N15),Doctors,34
+2018,1-084-Diseases of the genitourinary system(N00-N98),1-086-Remainder of diseases of the genitourinary system(N17-N98),Doctors,1058
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-088-Pregnancy with abortive outcome(O00-O07),Doctors,1
+2018,"1-087-Pregnancy, childbirth and the puerperium(O00-O99)",1-089-Other direct obstetric deaths(O10-O92),Doctors,3
+2018,1-092-Certain conditions originating in the perinatal period(P00-P96),1-092-Certain conditions originating in the perinatal period(P00-P96),Doctors,35
+2018,"1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)","1-093-Congenital malformations, deformations and chromosomal abnormalities(Q00-Q99)",Doctors,61
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Doctors,7
+2018,"1-094-Symptoms, signs and abnormal clinical and 		     laboratory findings, not elsewhere classified(R00-R99)","1-094-Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified(R00-R99)",Coroners,69
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-096-Transport accidents(V01-V99),Coroners,140
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-097-Falls(W00-W19),Coroners,195
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-098-Accidental drowning and submersion(W65-W74),Coroners,27
+2018,1-095-External causes of morbidity and mortality(V01-Y89),"1-099-Exposure to smoke, fire and flames(X00-X09)",Coroners,6
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-100-Accidental poisoning by and exposure to noxious substances(X40-X49),Coroners,30
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-101-Intentional self-harm(X60-X84),Coroners,397
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-102-Assault(X85-Y09),Coroners,4
+2018,1-095-External causes of morbidity and mortality(V01-Y89),1-103-All other external causes,Coroners,110

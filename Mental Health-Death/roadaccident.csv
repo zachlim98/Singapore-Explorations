@@ -1,0 +1,44 @@
+ Subject: Transport 
+ Topic : Land Transport 
+" Title  : M651281 - Road Traffic Accident Casualties, Annual "
+, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,Number
+ Variables , 1981 , 1982 , 1983 , 1984 , 1985 , 1986 , 1987 , 1988 , 1989 , 1990 , 1991 , 1992 , 1993 , 1994 , 1995 , 1996 , 1997 , 1998 , 1999 , 2000 , 2001 , 2002 , 2003 , 2004 , 2005 , 2006 , 2007 , 2008 , 2009 , 2010 , 2011 , 2012 , 2013 , 2014 , 2015 , 2016 , 2017 , 2018 , 2019 ,
+ Total Casualties Fatalities , 273 , 307 , 298 , 327 , 265 , 251 , 205 , 226 , 230 , 236 , 243 , 239 , 258 , 254 , 225 , 225 , 257 , 221 , 198 , 213 , 194 , 199 , 212 , 193 , 173 , 190 , 214 , 221 , 183 , 193 , 195 , 168 , 160 , 155 , 151 , 141 , 121 , 124 , 118 ,
+     Pedestrians On Foot , 109 , 96 , 115 , 114 , 75 , 69 , 73 , 81 , 64 , 88 , 70 , 65 , 61 , 67 , 63 , 70 , 78 , 67 , 56 , 59 , 54 , 49 , 64 , 46 , 41 , 42 , 58 , 62 , 45 , 55 , 49 , 44 , 43 , 45 , 43 , 47 , 41 , 39 , 39 ,
+     Personal Mobility Device Users , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 4 , 1 , 2 ,
+     Cyclists & Pillions * , 27 , 25 , 33 , 26 , 28 , 18 , 16 , 14 , 11 , 16 , 18 , 18 , 19 , 17 , 7 , 15 , 16 , 15 , 19 , 15 , 12 , 16 , 17 , 17 , 18 , 14 , 22 , 22 , 17 , 16 , 15 , 16 , 15 , 15 , 17 , 20 , 15 , 9 , 8 ,
+     Motor Cyclists & Pillion Riders , 79 , 126 , 100 , 116 , 84 , 115 , 86 , 101 , 110 , 89 , 112 , 103 , 123 , 118 , 117 , 94 , 111 , 87 , 85 , 99 , 88 , 101 , 94 , 95 , 95 , 102 , 102 , 108 , 92 , 89 , 99 , 76 , 73 , 74 , 72 , 62 , 44 , 61 , 64 ,
+     Motor Vehicle Drivers & Passengers Cars & Station Wagons , 29 , 31 , 23 , 35 , 43 , 26 , 18 , 21 , 24 , 22 , 25 , 35 , 34 , 35 , 21 , 29 , 33 , 30 , 30 , 22 , 25 , 21 , 27 , 23 , 8 , 18 , 21 , 23 , 12 , 14 , 15 , 14 , 16 , 12 , 7 , 8 , 9 , 10 , 1 ,
+     Goods Vans & Pick-ups , 15 , 15 , 19 , 16 , 13 , 13 , 4 , 3 , 6 , 9 , 8 , 7 , 5 , 5 , 8 , 6 , 7 , 5 , 0 , 4 , 3 , 4 , 4 , 4 , 4 , 4 , 2 , 0 , 5 , 3 , 1 , 0 , 3 , 2 , 2 , 1 , 2 , 3 , 0 ,
+"     Lorries, Tipper Trucks & Trailers ", 12 , 13 , 5 , 16 , 13 , 5 , 8 , 1 , 8 , 7 , 9 , 8 , 10 , 10 , 7 , 9 , 2 , 13 , 7 , 10 , 7 , 3 , 5 , 6 , 7 , 9 , 7 , 5 , 8 , 9 , 15 , 11 , 9 , 6 , 8 , 3 , 5 , 1 , 3 ,
+     Buses , 2 , 1 , 2 , 2 , 7 , 4 , 0 , 2 , 5 , 4 , 0 , 1 , 4 , 0 , 2 , 2 , 10 , 3 , 1 , 2 , 1 , 2 , 1 , 2 , 0 , 0 , 2 , 1 , 3 , 2 , 1 , 4 , 1 , 0 , 2 , 0 , 1 , 0 , 1 ,
+     Others , 0 , 0 , 1 , 2 , 2 , 1 , 0 , 3 , 2 , 1 , 1 , 2 , 2 , 2 , 0 , 0 , 0 , 1 , 0 , 2 , 4 , 3 , 0 , 0 , 0 , 1 , 0 , 0 , 1 , 5 , 0 , 3 , 0 , 1 , 0 , 0 , 0 , 0 , 0 ,
+ Total Casualties Injured , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na ," 9,706 "," 10,352 "," 10,760 "," 10,886 "," 11,328 "," 10,611 "," 10,253 "," 9,751 "," 9,858 "," 10,412 "," 10,687 "," 9,953 "," 10,018 "," 9,833 ",
+     Pedestrians On Foot , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 924 ," 1,036 "," 1,114 "," 1,073 "," 1,057 "," 1,049 "," 1,069 ", 989 , 883 , 973 ," 1,065 ", 903 , 877 , 979 ,
+     Personal Mobility Device Users , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 95 , 162 , 197 ,
+     Cyclists & Pillions * , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 493 , 519 , 585 , 569 , 562 , 513 , 442 , 436 , 503 , 606 , 594 , 589 , 499 , 452 ,
+     Motor Cyclists & Pillion Riders , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na ," 4,943 "," 5,358 "," 5,218 "," 5,304 "," 5,490 "," 5,003 "," 4,800 "," 4,383 "," 4,634 "," 4,928 "," 5,102 "," 4,803 "," 4,839 "," 5,010 ",
+     Motor Vehicle Drivers & Passengers Cars & Station Wagons , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na ," 2,306 "," 2,320 "," 2,562 "," 2,794 "," 2,839 "," 2,982 "," 2,782 "," 2,811 "," 2,686 "," 2,746 "," 2,698 "," 2,485 "," 2,537 "," 2,289 ",
+     Goods Vans & Pick-ups , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 222 , 265 , 304 , 278 , 282 , 258 , 234 , 226 , 193 , 219 , 235 , 199 , 180 , 159 ,
+"     Lorries, Tipper Trucks & Trailers ", na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 392 , 463 , 525 , 472 , 580 , 531 , 574 , 647 , 578 , 554 , 540 , 524 , 547 , 449 ,
+     Buses , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 303 , 298 , 329 , 361 , 481 , 245 , 320 , 243 , 342 , 358 , 415 , 333 , 350 , 276 ,
+     Others , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , na , 123 , 93 , 123 , 35 , 37 , 30 , 32 , 16 , 39 , 28 , 38 , 22 , 27 , 22 ,
+
+
+
+
+
+TOTAL 
+    CARS - INCLUDES PRIVATE AND COMPANY CARS.
+    PUBLIC MOTOR CARS - INCLUDES TAXIS AND PRIVATE HIRE CARS.
+"    GOODS & OTHER VEHICLES - INCLUDES 'GOODS VEHICLES' (FROM JAN 1962 TO DEC 1994), 'OTHERS' (FROM JAN 1974 TO DEC 1994) AND 'ROAD ROLLERS & TRACTORS' (FROM JAN 1962 TO DEC 1988)."
+SOURCE: SINGAPORE POLICE FORCE
+
+
+
+
+Data last updated: 20/08/2020
+
+Generated by: SingStat Table Builder 
+Date generated: 30/10/2020
+Contact: info@singstat.gov.sg 
