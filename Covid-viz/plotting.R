@@ -4,17 +4,22 @@ library(lubridate)
 library(scales)
 library(ggthemes)
 
+# import data
 sea_data <- read.csv("X:/GitHub/Singapore-explorations/Covid-viz/sea_data.csv")
 
+# mutated to get percentage change from start of year
 sea_data_perc <- sea_data %>% group_by(location) %>%
   mutate(case_change = (total_cases/total_cases[1]- 1),
          death_change = (total_deaths/total_deaths[1]- 1)) 
 
+# chose only the columns I need
 sea_final <- sea_data_perc %>% select(c(date, location, 
                                         case_change, death_change))
 
+# set the colors since separate geom_lines will require this
 colors <- c("Cases" = "#7ad2f6", "Deaths" = "#ee8f71")
 
+# plot
 plot <- ggplot(data=sea_data_perc, aes(x=as.Date(date, format = "%d/%m/%Y"))) + 
   theme_economist() + 
   geom_line(aes(y=case_change, color = "Cases"), size = 1.5) + 
